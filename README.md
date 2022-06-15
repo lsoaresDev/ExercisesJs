@@ -16,7 +16,7 @@ de poder praticar algumas funcionabilidades simples e rápidas da linguagem prop
 
 # Exercises
 
-## simple exercises to practice Javascript
+#### simple exercises to practice Javascript
 
 # Objective
 Hello, this paste contain some initial exercises focused in Javascript, with the objective
