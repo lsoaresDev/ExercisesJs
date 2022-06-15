@@ -2,7 +2,7 @@
 
 # Exercícios
 
-## exercícios simples para praticar Javascript
+#### exercícios simples para praticar Javascript
 
 # Objetivo
 Olá, essa pasta contém alguns exercícios iniciais focados em Javascript, com o intuíto
