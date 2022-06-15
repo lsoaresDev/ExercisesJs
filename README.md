@@ -1,4 +1,4 @@
-*If you wanna read in english, just roll down*
+- *If you wanna read in english, just roll down*
 
 # Exercícios
 
